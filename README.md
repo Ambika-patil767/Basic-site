@@ -1,2 +1,2 @@
-# Demo-site
+# Basic-site
 Tour site
